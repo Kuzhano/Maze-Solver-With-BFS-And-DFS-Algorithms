@@ -127,9 +127,9 @@ project_AKA/
 
 ## Authors
 
-- **[Wawan Saputra]**
-- **[Moh. Dzaki Ayatillah]**
-- **[M. Rayhan Ramadhan Afdhani]**
+- **Wawan Saputra**
+- **Moh. Dzaki Ayatillah**
+- **M. Rayhan Ramadhan Afdhani**
 
 This project is submitted as a **major assignment** for the  
 **Analisis Kompleksitas Algoritma** course at **Telkom University**.

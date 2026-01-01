@@ -22,7 +22,7 @@ The project focuses on solving **pathfinding problems in a 2D grid maze** using 
 
 ## Prerequisites & Requirements
 
-To ensure the application runs correctly—especially the **performance analysis module**—the following environment is required:
+To ensure the application runs correctly, especially the **performance analysis module**, the following environment is required:
 
 ### System Requirements
 - **Python:** 3.10 or higher  
